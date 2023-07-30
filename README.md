@@ -15,7 +15,7 @@ To apply SPA_STOCSY for NMR spectra with diversified resolutions:
 
 ## Data
 
-All the data listed in the paper are stored in the input_data/folder. 
+Some data used in the paper are stored in the input_data/folder. 
 - 10_meta_simulation.csv: 50 synthesized samples from 10 metabolites
 - htt_c12.csv: 10 NMR samples from brain homogenates of Drosophila melanogaster
 - human_cell_data.csv: 22 NMR samples from human cells  
