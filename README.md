@@ -9,7 +9,7 @@ To apply SPA_STOCSY for NMR spectra with diversified resolutions:
 
 [Low-dimension SPA-STOCSY tutorial](https://liuzlab.github.io/SPA-STOCSY/tutorial/spa_stocsy_tutorial_lowd.html)
 
-- For low-resolution NMR spectra, we provide the high-dimension SPA-STOCSY tutorial.
+- For low-resolution NMR spectra, we provide the high-dimension SPA-STOCSY tutorial. For each metabolite cluster within SPA, all the local maximums are used as input for the STOCSY step, thus each cluster is represented by a list of peaks for correlation calculation, instead of only the average value.
 
 [High-dimension SPA-STOCSY tutorial](https://liuzlab.github.io/SPA-STOCSY/tutorial/spa_stocsy_tutorial_highd.html)
 
