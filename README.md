@@ -27,7 +27,7 @@ Some data used in the paper are stored in the input_data/folder.
 
 The main functions in SPA_STOCSY are stored in the source_codes/ folder.  
 To use SPA_STOCSY for spectral analysis:
-1. The user can download the repo to their local directory
+1. The user can download the SPA-STOCSY repository to their local directory
 2. Follow the tutorial to load the source functions for SPA-STOCSY
 3. Then the user can use the data to explore SPA-STOCSY following the tutorial
 
