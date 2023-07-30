@@ -19,7 +19,8 @@ Some data used in the paper are stored in the input_data/folder.
 - 10_meta_simulation.csv: 50 synthesized samples from 10 metabolites
 - htt_c12.csv: 10 NMR samples from brain homogenates of Drosophila melanogaster
 - human_cell_data.csv: 22 NMR samples from human cells  
-- chx_lib_trunc.csv: reference library for 257 metabolites with their cluster information  
+- ref_final_lib.csv: reference library for 257 metabolites with their cluster information
+- chx_meta_with_single_clus.csv: metabolite name list used for singlet filtering
 
 
 ## Source code
