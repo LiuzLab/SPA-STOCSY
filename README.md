@@ -1,4 +1,4 @@
-# SPA_STOCSY
+# SPA-STOCSY
 
 SPA_STOCSY is an R pipeline for the automatic identification of both "known" and "unknown" metabolites in given samples.  
 With given input samples, SPA_STOCSY offers automatic algorithms to estimate all the parameters and generate the final results.  
